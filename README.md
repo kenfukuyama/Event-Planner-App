@@ -1,4 +1,4 @@
-# Event Managment Application with Java
+# Event Managment Application with Java Spring Framework
 
 full CRUD applicaition that allows users to create events and comment on other people's posts
 
